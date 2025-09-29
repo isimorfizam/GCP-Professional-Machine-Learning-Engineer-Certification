@@ -2,6 +2,7 @@
 Resources for preparing for GCP's Professional Machine Learning Certification
 
 Course objectives to track progress:
+
 ● Describe how to develop and implement machine learning solutions using low-code tools and
 services on Google Cloud.
 
