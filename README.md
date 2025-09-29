@@ -20,3 +20,17 @@ development, deployment, and retraining.
 
 ● Identify the key tasks and considerations for monitoring, testing, and troubleshooting ML
 solutions to ensure performance, reliability, and responsible AI practices.
+
+The Professional Machine Learning Engineer exam assesses knowledge in six areas:
+
+● Architecting low-code AI solutions.
+
+● Collaborating within and across teams to manage data and models.
+
+● Scaling prototypes into ML models.
+
+● Serving and scaling models.
+
+● Automating and orchestrating ML pipelines.
+
+● Monitoring AI solutions
